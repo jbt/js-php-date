@@ -1,0 +1,5 @@
+A JS implementation of the PHP date function.
+
+Not necessarily the most efficient in the world, but most of the others out there are either ugly, inefficient, or leak globals all over the place.
+
+I hope it's useful!
